@@ -17,7 +17,7 @@ ORDER BY 1,2
 Select Location,date,total_cases,total_deaths, (total_deaths/total_cases) *100 as DeathPercentage
 From PortfolioProject..CovidDeaths
 Where location like '%states%'
-and Where Continent is not null
+and Continent is not null
 order by 1,2
 
 --Looking at Total Cases Vs Population
