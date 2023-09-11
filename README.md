@@ -22,3 +22,9 @@ Project 2: Data Cleaning with SQL
 I worked off a dataset for Housing in Nashvill to clean up and make it eaiser to read. 
 
 [Link to Project Repository](https://github.com/KyleVargo/PortfolioProjects/blob/main/data%20cleaning%20project.sql)
+
+Feedback
+I highly value feedback, as it helps me improve and grow as a data analyst. If you have any comments, suggestions, or questions about my work, please feel free to reach out. Your input is greatly appreciated.
+
+
+Thank you for taking the time to explore my portfolio. I'm excited about the journey ahead and look forward to connecting with like-minded professionals in the data analytics field.
