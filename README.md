@@ -9,6 +9,8 @@ Name: Kyle Vargo
 [LinkedIn](https://www.linkedin.com/in/kyle-vargo-911a1a278/)
 
 Projects
+
+
 Here, you'll find a collection of projects that demonstrate my skills and knowledge in the field of data analysis. These projects include both completed works and ongoing efforts. I'm excited to share my progress and growth in this space.
 
 Project 1: Covid Data
