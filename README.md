@@ -12,7 +12,7 @@ Name: Kyle Vargo
 Here, you'll find a collection of projects that demonstrate my skills and knowledge in the field of data analysis. These projects include both completed works and ongoing efforts. I'm excited to share my progress and growth in this space.
 
 Project 1: Covid Data
-I took the most recent Codid death data and ran some sql queries. I also used Tableau to create a dashboard.
+I took the most recent Codid death data and ran some sql queries. I also used Tableau to create a dashboard. [Link to the data used, it was taken from the start until September 2023](https://ourworldindata.org/covid-deaths)
 
 [Link to Project Repository](https://github.com/KyleVargo/PortfolioProjects/blob/main/covid%20sql%20project1.sql)
 
